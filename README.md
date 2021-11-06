@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Skyzi000&count_private=true&show_icons=true&hide=contribs&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyzi000&layout=compact&hide_border=true&card_width=240&langs_count=6&theme=github_dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyzi000&layout=compact&hide_border=true&card_width=230&langs_count=6&theme=github_dark" />
 </a>
 
 
